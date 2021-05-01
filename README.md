@@ -1,4 +1,9 @@
 ### Hi there 👋
+[![Years Badge](https://badges.pufler.dev/years/ccmetz)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/ccmetz)](https://badges.pufler.dev)
+
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ccmetz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **ccmetz/ccmetz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
